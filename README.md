@@ -1,2 +1,2 @@
-# wedos
-wedos akeh banget
+# kudu
+kudu biso
