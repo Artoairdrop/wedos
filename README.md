@@ -1,2 +1,0 @@
-# kudu
-kudu biso
